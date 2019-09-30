@@ -19,7 +19,7 @@
     "url": "https://github.com/vivaxy/npm-registry-proxy/issues"
   },
   "homepage": "https://github.com/vivaxy/npm-registry-proxy#readme",
-  "scripts": {
-    "build": "next build"
+  "devDependencies": {
+    "@now/node": "^1.0.0"
   }
 }

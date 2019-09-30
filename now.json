@@ -1,0 +1,4 @@
+{
+  "routes": [{ "src": ".*", "dest": "api/index.js" }],
+  "builds": [{ "src": "api/*.js", "use": "@now/node" }]
+}
