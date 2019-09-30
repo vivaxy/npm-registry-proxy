@@ -1,4 +1,7 @@
 {
   "routes": [{ "src": ".*", "dest": "api/index.js" }],
-  "builds": [{ "src": "api/*.js", "use": "@now/node" }]
+  "builds": [{ "src": "api/*.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
 }
