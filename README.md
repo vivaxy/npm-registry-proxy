@@ -2,6 +2,8 @@
 
 Proxy npm registry, for enforcing cli as yarn or npm.
 
+Read Explanation Articles: [Use npm Registry to Restric Installing Client](https://vivaxyblog.github.io/2019/09/30/use-npm-registry-to-restrict-installing-client.html).
+
 ## Usage
 
 Add `.npmrc` in your project root or home.
