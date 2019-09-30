@@ -1,0 +1,25 @@
+{
+  "name": "npm-registry-proxy",
+  "version": "1.0.0",
+  "description": "npm registry proxy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivaxy/npm-registry-proxy.git"
+  },
+  "keywords": [
+    "npm",
+    "registry",
+    "proxy",
+    "yarn",
+    "cli"
+  ],
+  "author": "vivaxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivaxy/npm-registry-proxy/issues"
+  },
+  "homepage": "https://github.com/vivaxy/npm-registry-proxy#readme",
+  "scripts": {
+    "build": "next build"
+  }
+}
