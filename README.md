@@ -24,3 +24,5 @@ Now, you can only use `yarn` for installing dependencies.
 ### registry
 
 Any npm registry.
+
+`registry` should be URI encoded.
