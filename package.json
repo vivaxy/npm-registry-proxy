@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/vivaxy/npm-registry-proxy#readme",
   "devDependencies": {
-    "@now/node": "^1.0.0",
-    "now": "^16.2.0"
+    "@now/node": "1.0.0",
+    "now": "16.2.0"
   },
   "scripts": {
     "dev": "now dev"
